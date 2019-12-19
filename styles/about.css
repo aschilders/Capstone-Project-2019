@@ -1,0 +1,29 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+	 
+	 font-size:20px;
+
+}
+.img{
+	text-align:center;
+ padding-bottom:20px;
+
+
+}
+#contacttitle{
+	display: inline-block;
+}
+#contacttitle img{
+	display: inline-block;
+}
+
+#contacttitle p{
+	display: inline-block;
+	color: #F88D2B;
+	font-size: 2.0em;
+	font-weight: bold;
+}

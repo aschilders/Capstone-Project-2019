@@ -1,0 +1,13 @@
+[30-Apr-2019 12:53:09 America/Chicago] PHP Warning:  PDOStatement::bindValue() expects at least 2 parameters, 1 given in /home/groupa19/public_html/Final/admin11161999/updatemyinformation.php on line 11
+[30-Apr-2019 12:53:09 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/groupa19/public_html/Final/admin11161999/updatemyinformation.php:12
+Stack trace:
+#0 /home/groupa19/public_html/Final/admin11161999/updatemyinformation.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/groupa19/public_html/Final/admin11161999/updatemyinformation.php on line 12
+[01-May-2019 09:45:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/groupa19/public_html/Final/admin11161999/insertorderdetails.php on line 142
+[01-May-2019 10:06:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'preg_match' (T_STRING), expecting '(' in /home/groupa19/public_html/Final/admin11161999/updateemployeetypesform.php on line 162
+[01-May-2019 10:07:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'preg_match' (T_STRING), expecting '(' in /home/groupa19/public_html/Final/admin11161999/updateemployeetypesform.php on line 162
+[01-May-2019 10:07:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'preg_match' (T_STRING), expecting '(' in /home/groupa19/public_html/Final/admin11161999/updateemployeetypesform.php on line 162
+[01-May-2019 10:08:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/groupa19/public_html/Final/admin11161999/updateemployeetypesform.php on line 162
+[01-May-2019 11:09:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/groupa19/public_html/Final/admin11161999/selectschedules.php on line 59
+[02-May-2019 12:02:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$formfield' (T_VARIABLE) in /home/groupa19/public_html/Final/admin11161999/updatemyinformation.php on line 14
